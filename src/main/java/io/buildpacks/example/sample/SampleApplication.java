@@ -9,6 +9,7 @@ public class SampleApplication {
 	public static void main(String[] args) {
 		System.out.println("hello buildpacks");
 		System.out.println("hello kpack");
+		System.out.println("hello kpack");
 		SpringApplication.run(SampleApplication.class, args);
 	}
 
